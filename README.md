@@ -19,7 +19,18 @@ Aplikasi Todo List untuk mempermudah pekerjaan.
     - task_card.dart
   - main.dart
 
-## Screenshot
-![Alt Text 1](flutter_01.png){: width="150px"} ![Alt Text 2](flutter_02.png){: width="150px"}
-![Alt Text 3](flutter_03.png){: width="150px"} ![Alt Text 4](flutter_04.png){: width="150px"}
-![Alt Text 5](flutter_05.png){: width="150px"} ![Alt Text 6](flutter_06.png){: width="150px"}
+## Screenshot<div style="display: inline-block;">
+  <img src="flutter_01.png" alt="Alt Text 1" width="150"><br>
+  <img src="flutter_02.png" alt="Alt Text 2" width="150">
+</div>
+
+<div style="display: inline-block;">
+  <img src="flutter_03.png" alt="Alt Text 3" width="150"><br>
+  <img src="flutter_04.png" alt="Alt Text 4" width="150">
+</div>
+
+<div style="display: inline-block;">
+  <img src="flutter_05.png" alt="Alt Text 5" width="150"><br>
+  <img src="flutter_06.png" alt="Alt Text 6" width="150">
+</div>
+
