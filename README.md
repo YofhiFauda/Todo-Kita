@@ -1,16 +1,37 @@
-# todo_kita
+# Todo Kita
 
-A new Flutter project.
+Aplikasi Todo List untuk mempermudah pekerjaan.
 
-## Getting Started
+1. run "Flutter pub get"
 
-This project is a starting point for a Flutter application.
+##Project Structure
 
-A few resources to get you started if this is your first Flutter project:
+- lib
+  - database
+    - database_helper.dart
+  - model
+    - constants.dart
+    - task_model.dart
+  - ui
+    - categories.dart
+    - todo_list_screen.dart
+  - widget
+    - task_card.dart
+  - main.dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div class="gambar1">
+  <img src="flutter_01.png" alt="Alt Text 1" width="150"><br>
+  <img src="flutter_02.png" alt="Alt Text 2" width="150">
+</div>
+
+<div class="gambar2">
+  <img src="flutter_03.png" alt="Alt Text 3" width="150"><br>
+  <img src="flutter_04.png" alt="Alt Text 4" width="150">
+</div>
+
+<div class="gambar3">
+  <img src="flutter_05.png" alt="Alt Text 5" width="150"><br>
+  <img src="flutter_06.png" alt="Alt Text 6" width="150">
+</div>
