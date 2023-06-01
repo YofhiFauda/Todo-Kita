@@ -4,7 +4,7 @@ Aplikasi Todo List untuk mempermudah pekerjaan.
 
 1. run "Flutter pub get"
 
-##Project Structure
+## Project Structure
 
 - lib
   - database
@@ -21,17 +21,14 @@ Aplikasi Todo List untuk mempermudah pekerjaan.
 
 ## Screenshot
 <div style="display: flex;">
-  <img src="flutter_01.png" alt="Alt Text 1" width="150"><br>
-  <img src="flutter_02.png" alt="Alt Text 2" width="150">
+  <div style="flex: 1;">
+    <img src="flutter_01.png" alt="Alt Text 1" width="150"><br>
+    <img src="flutter_02.png" alt="Alt Text 2" width="150">
+  </div>
+  <div style="flex: 1;">
+    <img src="flutter_03.png" alt="Alt Text 3" width="150"><br>
+    <img src="flutter_04.png" alt="Alt Text 4" width="150">
+  </div>
 </div>
 
-<div style="display: flex;">
-  <img src="flutter_03.png" alt="Alt Text 3" width="150"><br>
-  <img src="flutter_04.png" alt="Alt Text 4" width="150">
-</div>
-
-<div style="display: flex;">
-  <img src="flutter_05.png" alt="Alt Text 5" width="150"><br>
-  <img src="flutter_06.png" alt="Alt Text 6" width="150">
-</div>
 
