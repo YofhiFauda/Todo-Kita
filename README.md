@@ -22,11 +22,11 @@ Aplikasi Todo List untuk mempermudah pekerjaan.
 ## Screenshot
 <div style="display: flex;">
   <div style="flex: 1;">
-    <img src="flutter_01.png" alt="Alt Text 1" width="150"><br>
+    <img src="flutter_01.png" alt="Alt Text 1" width="150">
     <img src="flutter_02.png" alt="Alt Text 2" width="150">
   </div>
   <div style="flex: 1;">
-    <img src="flutter_03.png" alt="Alt Text 3" width="150"><br>
+    <img src="flutter_03.png" alt="Alt Text 3" width="150">
     <img src="flutter_04.png" alt="Alt Text 4" width="150">
   </div>
 </div>
