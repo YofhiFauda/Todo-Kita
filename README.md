@@ -30,6 +30,11 @@ Aplikasi Todo List untuk mempermudah pekerjaan.
     <img src="flutter_03.png" alt="Alt Text 3" width="150">
     <img src="flutter_04.png" alt="Alt Text 4" width="150">
   </div>
+  <br>
+  <div style="flex: 1;">
+    <img src="flutter_05.png" alt="Alt Text 5" width="150">
+    <img src="flutter_06.png" alt="Alt Text 6" width="150">
+  </div>
 </div>
 
 
